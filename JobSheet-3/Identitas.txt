@@ -1,8 +1,0 @@
-Nama        : Gias Garda Pamungkas
-Nim         : STI202102533
-Mapel       : Mobile Programming Lanjut
-Kode Kelas  : #111
-Dosen       : Amin Sholeh, M.Kom
-
-
-Bukti Pembuatan akun Git hub dan upload Jobsheet 1-3
