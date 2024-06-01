@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
           child: Column(
             children: [
               TeksUtama(
-                teks1: 'V',
+                teks1: 'STI202102521',
                 teks2: 'SALSABILA MUMTAZ',
               ),
               TeksUtama(
